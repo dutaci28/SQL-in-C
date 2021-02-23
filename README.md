@@ -1,3 +1,1 @@
-# Project
-
-Programul implementeaza functionalitati ale limbajului SQL folosindu-se de fisiere.
+Programul implementeaza functionalitati ale limbajului SQL prin intermediul limbajului C++, folosindu-se de fisiere si paradigma programarii orientate obiect. Proiectul a fost creat alaturi de o echipa.
